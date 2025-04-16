@@ -10,7 +10,7 @@
 <li> <a href="https://taha-mohammadzadeh-web.github.io/login-form-of-tapsi/">online demo</a></li>
 <li>coded by <a href="https://github.com/taha-mohammadzadeh-web">tahamohammadzadeh</a></li>
 <li> Used from html and css</li>
-<li>contact with me: <a href="www.tahamohammadzadeh.web@gmail.com">gmail</a></li>
+<li>contact with me: <a href="mailto:tahamohammadzadeh.web@gmail.com">gmail</a></li>
 
 
   
